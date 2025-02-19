@@ -5,7 +5,7 @@ echo "==== 安装 Python3 和 必要组件 ===="
 apt update && apt install -y python3 python3-pip git curl
 
 echo "==== 克隆签到代码 ===="
-git clone https://github.com/Xuziyin/mys_sign.git/opt/mys_sign
+git clone https://github.com/Xuziyin/mys_sign.git /opt/mys_sign
 cd /opt/mys_sign
 
 echo "==== 安装 Python 依赖 ===="
