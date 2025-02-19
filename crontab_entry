@@ -1,0 +1,1 @@
+0 9 * * * /usr/bin/python3 /opt/mys_sign/sign_in.py >> /opt/mys_sign/sign_log.txt 2>&1
