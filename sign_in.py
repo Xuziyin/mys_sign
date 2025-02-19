@@ -3,10 +3,10 @@ import json
 import time
 
 # 你的米游社 Cookie (修改此处)
-MYS_COOKIE = "你的cookie"
+MYS_COOKIE = "你的 cookie"
 
 # 你的米游社 UID (修改此处)
-MYS_UID = "你的UID"
+MYS_UID = "你的 UID"
 
 # 签到 API
 MYS_SIGN_URL = "https://api-takumi.mihoyo.com/event/bbs_sign_reward/sign"
